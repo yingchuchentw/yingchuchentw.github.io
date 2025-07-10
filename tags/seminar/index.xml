@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://yingchuchentw.github.io/tags/seminar/</link>
+      <atom:link href="https://yingchuchentw.github.io/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seminar</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 19:35:00 +0800</lastBuildDate>
+    <image>
+      <url>https://yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Seminar</title>
+      <link>https://yingchuchentw.github.io/tags/seminar/</link>
+    </image>
+    
+    <item>
+      <title>NTNU Department of Physcial education and Sport Science Seminar</title>
+      <link>https://yingchuchentw.github.io/post/2023_10_19_ntnu_seminar_presentation/</link>
+      <pubDate>Thu, 19 Oct 2023 19:35:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_10_19_ntnu_seminar_presentation/</guid>
+      <description>&lt;p&gt;In this seminar, Ying-Chu Chen shared the recent research work of effects of acute blood flow restriction exercise on cognitive function. He investigated the current research of blood flow restriction on cognitive function.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

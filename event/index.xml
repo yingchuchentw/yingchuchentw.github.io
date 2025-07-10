@@ -2,35 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Ying-Chu Chen&#39;s CV website</title>
-    <link>yingchuchentw.github.io/event/</link>
-      <atom:link href="yingchuchentw.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yingchuchentw.github.io/event/</link>
+      <atom:link href="https://yingchuchentw.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2024 20:05:00 +0000</lastBuildDate>
     <image>
-      <url>yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>yingchuchentw.github.io/event/</link>
+      <link>https://yingchuchentw.github.io/event/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>yingchuchentw.github.io/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
+      <title>Effects of multi-component exercise intervention on quality of life in middle-aged adults:A randomized controlled trial</title>
+      <link>https://yingchuchentw.github.io/event/2024_10_17/</link>
+      <pubDate>Thu, 17 Oct 2024 20:05:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2024_10_17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote speech of Professor John Cairney, Ph.D.</title>
+      <link>https://yingchuchentw.github.io/event/2024_10_11/</link>
+      <pubDate>Fri, 04 Oct 2024 09:30:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2024_10_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Move up! Physical activity and exercise will make up you smarter!</title>
+      <link>https://yingchuchentw.github.io/event/2023_11_10/</link>
+      <pubDate>Fri, 10 Nov 2023 19:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2023_11_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote speech of Professor Joan Duda, Ph.D.</title>
+      <link>https://yingchuchentw.github.io/event/2023_11_05/</link>
+      <pubDate>Thu, 09 Nov 2023 10:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2023_11_05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of acute blood flow restriction exercise on cognitive function:a review</title>
+      <link>https://yingchuchentw.github.io/event/2023_10_20/</link>
+      <pubDate>Thu, 19 Oct 2023 19:35:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2023_10_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Activity, Exercise, and Health Promotion:A Practitioner&#39;s Perspective.</title>
+      <link>https://yingchuchentw.github.io/event/2022_10_24/</link>
+      <pubDate>Mon, 24 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2022_10_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Activity, Exercise, and Health Promotion</title>
+      <link>https://yingchuchentw.github.io/event/2022_05_29/</link>
+      <pubDate>Fri, 20 May 2022 10:05:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2022_05_29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yingchuchentw.github.io/event/2021_12_02/</link>
+      <pubDate>Thu, 02 Dec 2021 10:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2021_12_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Activity, Exercise, and Health Promotion:A Practitioner&#39;s Perspective.</title>
+      <link>https://yingchuchentw.github.io/event/2021_11_26/</link>
+      <pubDate>Mon, 08 Nov 2021 09:30:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2021_11_26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use Journal Citation Report to find impact factor and ranking?</title>
+      <link>https://yingchuchentw.github.io/event/2021_09_15/</link>
+      <pubDate>Wed, 15 Sep 2021 10:30:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2021_09_15/</guid>
+      <description></description>
     </item>
     
   </channel>

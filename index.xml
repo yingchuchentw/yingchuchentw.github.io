@@ -2,604 +2,177 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ying-Chu Chen&#39;s CV website</title>
-    <link>yingchuchentw.github.io/</link>
-      <atom:link href="yingchuchentw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yingchuchentw.github.io/</link>
+      <atom:link href="https://yingchuchentw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ying-Chu Chen&#39;s CV website</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Ying-Chu Chen&#39;s CV website</title>
-      <link>yingchuchentw.github.io/</link>
+      <link>https://yingchuchentw.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>yingchuchentw.github.io/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>恭喜陳映竹再次榮獲113學年度呂聯宗呂王敏華夫婦獎助學基金以及優秀研究生獎學金！</title>
+      <link>https://yingchuchentw.github.io/post/2024_11_24_certification-award/</link>
+      <pubDate>Wed, 20 Nov 2024 09:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_11_24_certification-award/</guid>
+      <description>&lt;p&gt;Congratulations to Ying-Chu Chen for once again being awarded the prestigious Lü Lien-Tzung and Lü Wang Min-Hua Scholarship Fund for the 113th academic year! This recognition follows Ying-Chu&amp;rsquo;s outstanding achievement in obtaining two highly esteemed international certifications, the Clinical Exercise Physiologist Certification from the American College of Sports Medicine (ACSM) and the Physical Activity in Public Health Specialist (PAPHS) certification, jointly awarded by the ACSM and the National Society of Physical Activity Practitioners in Public Health (NSPAPPH).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>國立臺灣師範大學圖書館113學年度第一學期圖書館自主英語學習讀書會</title>
+      <link>https://yingchuchentw.github.io/post/2024_11_13_english_readingclub/</link>
+      <pubDate>Sun, 10 Nov 2024 19:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_11_13_english_readingclub/</guid>
+      <description>&lt;p&gt;Ying-Chu Chen actively participated in the Library Autonomous English Learning Study Group hosted by the National Taiwan Normal University Library during the first semester of the 113th academic year. The theme of the study group was &amp;ldquo;Career Plan&amp;rdquo;, focusing on the importance of career planning, the process of exploring personality traits, and strategies for identifying suitable career paths. This program offered participants a comprehensive and systematic approach to improving their English skills while gaining valuable insights into career development.Throughout the sessions, Ying-Chu demonstrated exceptional initiative and dedication. She meticulously prepared for each meeting by thoroughly reading the assigned English materials, taking detailed notes, and reflecting on related questions. This preparation allowed his to actively engage in discussions and share his insights during the sessions. Ying-Chu believed that this proactive approach not only enhanced his English reading and communication skills but also deepened his understanding of the core concepts of career planning, laying a solid foundation for his future career choices.The study group incorporated a variety of interactive activities, such as group discussions, role-playing, and personal sharing, to enrich the participants&amp;rsquo; learning experience. For instance, during the exploration of personality traits, participants completed a series of personality assessments. Through these tests, Ying-Chu gained a clearer understanding of his strengths and challenges, enabling his to reflect on how these traits could align with his future career goals. Additionally, when analyzing suitable career types, she actively exchanged ideas with othis members, gaining diverse perspectives that helped his reassess his career choices and develop a deeper appreciation for the diversity of the professional world.The all-English discussion environment presented both challenges and opportunities for Ying-Chu. Initially, expressing his views in English was somewhat difficult, but with each session, his confidence and oral proficiency improved significantly. Engaging with participants from various academic disciplines furthis broadened his horizons by exposing his to diverse viewpoints and experiences. For Ying-Chu, this study group was more than just a language-learning experience; it was a valuable opportunity for self-discovery and career exploration. She concluded that such activities not only equip participants with practical tools for career planning but also instill greater courage and wisdom to face the uncertainties of the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>113學年度第一學期優秀研究生獎學金 (113_Fall Most Outstanding Student Award)</title>
+      <link>https://yingchuchentw.github.io/post/2024_11_18_113_1_outstading-student-award/</link>
+      <pubDate>Sat, 09 Nov 2024 09:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_11_18_113_1_outstading-student-award/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Congratulations to Ying-Chu Chen! for receiving the Outstanding Graduate Student Scholarship for the first semester of the 113th academic year from the Department of Physical Education and Sport Sciences at National Taiwan Normal University! This semester, Ying-Chu has achieved remarkable academic accomplishments, including the publication of one first-authored article in a TSSCI-indexed journal in Chinese, one co-authored article in an SCI-indexed journal in English, and a book review in a Chinese A&amp;amp;HCI-indexed journal. Additionally, Ying-Chu has obtained the prestigious Clinical Exercise Physiologist Certification from the American College of Sports Medicine (ACSM) and earned certification as a Physical Activity in Public Health Specialist (PAPHS) through the ACSM and the National Society of Physical Activity Practitioners in Public Health (NSPAPPH).&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of multi-component exercise intervention on quality of life in middle-aged adults:A randomized controlled trial</title>
+      <link>https://yingchuchentw.github.io/event/2024_10_17/</link>
+      <pubDate>Thu, 17 Oct 2024 20:05:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2024_10_17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote speech of Professor John Cairney, Ph.D.</title>
+      <link>https://yingchuchentw.github.io/event/2024_10_11/</link>
+      <pubDate>Fri, 04 Oct 2024 09:30:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2024_10_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Taiwan Normal University English as Medium for Instruction Teaching Assistant Talent and Leadership course presentation competition 3rd place</title>
+      <link>https://yingchuchentw.github.io/post/2024_emi_ta_presentation_award/</link>
+      <pubDate>Wed, 26 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_emi_ta_presentation_award/</guid>
+      <description>&lt;p&gt;2024 年國立臺灣師範大學 EMI 教學資源中心 112-2 學期【EMI 人才與領導課程】成果簡報發表競賽第三名🎉🎊&lt;/p&gt;
+&lt;p&gt;恭喜陳映竹 (Ying-Chu Chen) 榮獲 2024 年國立臺灣師範大學 EMI 教學資源中心 112-2 學期【EMI 人才與領導課程】成果簡報發表競賽第三名！🥳🌟 陳映竹在這次競賽中展現了卓越的英語教學技巧與領導能力，透過精心準備的簡報贏得了評審們的肯定👏。他的努力與專業不僅為自己帶來了榮譽，也為 EMI 教學資源中心增添了光彩✨。讓我們一起祝賀陳映竹，並期待他在未來的 EMI 課程中繼續發揮所長，為學生帶來更多的啟發與成長📚💡。&lt;/p&gt;
+&lt;p&gt;National Taiwan Normal University English as medium for instruction teaching assistant talent and leadership course presentation competition 3rd place&lt;/p&gt;
+&lt;p&gt;🎉🎊 Congratulations to Ying-Chu Chen for winning 3rd place in the 2024 NTNU EMI Teaching Resource Center 112-2 Semester [EMI Talent and Leadership Course] Presentation Competition! 🥳🌟 Ying-Chu showcased outstanding English  presentation skills and leadership abilities in this competition, earning high praise from the judges with his well-prepared presentation👏. His dedication and expertise have not only brought his personal honor but also added prestige to the English as Medium for Instruction Teaching Resource Center✨. Let&amp;rsquo;s celebrate Ying-Chu Chen&amp;rsquo;s achievement and look forward to his continued contributions in future EMI courses, bringing more inspiration and growth to his students📚💡.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>National Taiwan Normal University English as Medium for Instruction Teaching Assistant Talent and Leadership course presentation competition 3rd place</title>
+      <link>https://yingchuchentw.github.io/post/2024_emi_ta_presentation_award_2/</link>
+      <pubDate>Wed, 26 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_emi_ta_presentation_award_2/</guid>
+      <description>&lt;p&gt;2024 年國立臺灣師範大學 EMI 教學資源中心 112-2 學期【EMI 人才與領導課程】成果簡報發表競賽第三名🎉🎊&lt;/p&gt;
+&lt;p&gt;恭喜陳映竹 (Ying-Chu Chen) 榮獲 2024 年國立臺灣師範大學 EMI 教學資源中心 112-2 學期【EMI 人才與領導課程】成果簡報發表競賽第三名！🥳🌟 陳映竹在這次競賽中展現了卓越的英語教學技巧與領導能力，透過精心準備的簡報贏得了評審們的肯定👏。他的努力與專業不僅為自己帶來了榮譽，也為 EMI 教學資源中心增添了光彩✨。讓我們一起祝賀陳映竹，並期待他在未來的 EMI 課程中繼續發揮所長，為學生帶來更多的啟發與成長📚💡。&lt;/p&gt;
+&lt;p&gt;National Taiwan Normal University English as medium for instruction teaching assistant talent and leadership course presentation competition 3rd place&lt;/p&gt;
+&lt;p&gt;🎉🎊 Congratulations to Ying-Chu Chen for winning 3rd place in the 2024 NTNU EMI Teaching Resource Center 112-2 Semester [EMI Talent and Leadership Course] Presentation Competition! 🥳🌟 Ying-Chu showcased outstanding English  presentation skills and leadership abilities in this competition, earning high praise from the judges with his well-prepared presentation👏. His dedication and expertise have not only brought his personal honor but also added prestige to the English as Medium for Instruction Teaching Resource Center✨. Let&amp;rsquo;s celebrate Ying-Chu Chen&amp;rsquo;s achievement and look forward to his continued contributions in future EMI courses, bringing more inspiration and growth to his students📚💡.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>yingchuchentw.github.io/projects/</link>
+      <link>https://yingchuchentw.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/projects/</guid>
+      <guid>https://yingchuchentw.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>yingchuchentw.github.io/post/get-started/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/post/get-started/</guid>
-      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
-
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Hugo Blox community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn what other &lt;strong&gt;creators&lt;/strong&gt;&lt;/a&gt; are building with this template.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code &lt;a href=&#34;https://hugoblox.com/blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blocks&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <title>112學年度第二學期優秀研究生獎學金 (112_Spring Most Outstanding Student Award)</title>
+      <link>https://yingchuchentw.github.io/post/2024_04_09_112_2_outstading-student-award/</link>
+      <pubDate>Tue, 09 Apr 2024 09:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_04_09_112_2_outstading-student-award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passed the ACSM CEP certification!</title>
+      <link>https://yingchuchentw.github.io/post/2024_02_21_acsm_cep/</link>
+      <pubDate>Tue, 09 Apr 2024 09:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_02_21_acsm_cep/</guid>
+      <description>&lt;p&gt;Congratulations are certainly in order! It&amp;rsquo;s with immense pride that we announce Ying-Chu Chen&amp;rsquo;s successful passage of the ACSM CEP certification. This accomplishment underscores Ying-Chu&amp;rsquo;s dedication, perseverance, and expertise in the field of exercise physiology and fitness training. The ACSM CEP certification is widely recognized as a benchmark of excellence in the industry, and Ying-Chu&amp;rsquo;s attainment of this prestigious credential reflects her commitment to maintaining the highest standards of professional competence. With this achievement, Ying-Chu not only demonstrates her mastery of essential concepts and principles but also her readiness to positively impact the lives of others through evidence-based exercise programming and personalized training regimens. As Ying-Chu continues to advance her career and broaden her impact, her success serves as an inspiration to colleagues and clients alike, motivating them to pursue their own goals with passion and determination. We applaud Ying-Chu for her exceptional achievement and look forward to witnessing the continued impact of her expertise in promoting health and wellness within our community.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>yingchuchentw.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>2024, 11th International Seminar in Sports and Exercise Psychology in Taiwan </title>
+      <link>https://yingchuchentw.github.io/post/2024_issep_11th/</link>
+      <pubDate>Fri, 26 Jan 2024 11:00:00 +1200</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2024_issep_11th/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>yingchuchentw.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>陳映竹榮獲臺師大體育與運動科學系112第二學期優秀獎學金</title>
+      <link>https://yingchuchentw.github.io/post/2023_12_14_outstanding_students/</link>
+      <pubDate>Thu, 14 Dec 2023 20:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_12_14_outstanding_students/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>yingchuchentw.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Move up! Physical activity and exercise will make up you smarter!</title>
+      <link>https://yingchuchentw.github.io/event/2023_11_10/</link>
+      <pubDate>Fri, 10 Nov 2023 19:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2023_11_10/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>yingchuchentw.github.io/post/second-brain/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/post/second-brain/</guid>
-      <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
-&lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
-&lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
-&lt;p&gt;Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.&lt;/p&gt;
-&lt;h2 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;With this open format, can even edit your mindmaps in other popular tools such as Obsidian.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Anh here&amp;rsquo;s a more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
-
-&lt;pre&gt;- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;highlighting&#34;&gt;Highlighting&lt;/h2&gt;
-&lt;p&gt;&lt;mark&gt;Highlight&lt;/mark&gt; important text with &lt;code&gt;mark&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Highlighted text&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;callouts&#34;&gt;Callouts&lt;/h2&gt;
-&lt;p&gt;Use &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;callouts&lt;/a&gt; (aka &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;) to draw attention to notes, tips, and warnings.&lt;/p&gt;
-&lt;p&gt;By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Or use the &lt;code&gt;warning&lt;/code&gt; callout type so your readers don&amp;rsquo;t miss critical details:&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
+      <title>國際運動心理學者來台參訪</title>
+      <link>https://yingchuchentw.github.io/post/2023_11_27_costas_ralf/</link>
+      <pubDate>Fri, 10 Nov 2023 19:00:00 +2000</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_11_27_costas_ralf/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>yingchuchentw.github.io/post/data-visualization/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/post/data-visualization/</guid>
-      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
-&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
-&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
-
-
-
-
-&lt;div id=&#34;chart-638427591&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  async function fetchChartJSON() {
-    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
-    const response = await fetch(&#39;.\/line-chart.json&#39;);
-    return await response.json();
-  }
-
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        console.debug(&#39;Plotly not loaded yet...&#39;)
-        return;
-      }
-      clearInterval( a );
-
-      fetchChartJSON().then(chart =&gt; {
-        console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-638427591&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;graph TD
-A[Hard] --&gt;|Text| B(Round)
-B --&gt; C{Decision}
-C --&gt;|One| D[Result 1]
-C --&gt;|Two| E[Result 2]
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice-&gt;&gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&gt;&gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&gt;&gt;Alice: Great!
-John-&gt;&gt;Bob: How about you?
-Bob--&gt;&gt;John: Jolly good!
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &amp;lt;--&amp;gt; C2: Cool label
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;classDiagram
-Class01 &lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &lt;--&gt; C2: Cool label
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
-[*] --&gt; Still
-Still --&gt; [*]
-Still --&gt; Moving
-Moving --&gt; Still
-Moving --&gt; Crash
-Crash --&gt; [*]
-&lt;/div&gt;
-&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;table class=&#34;table-auto w-full&#34;&gt;
-  
-    
-    
-    &lt;thead&gt;
-      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
-    &lt;/thead&gt;
-  
-  &lt;tbody&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  &lt;/tbody&gt;
-  
-    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
+      <title>惠瑜慈善基金會演講</title>
+      <link>https://yingchuchentw.github.io/post/2023_11_10_michaelchou_fundspeech/</link>
+      <pubDate>Fri, 10 Nov 2023 19:00:00 +2000</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_11_10_michaelchou_fundspeech/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>yingchuchentw.github.io/post/teach-courses/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/post/teach-courses/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
-&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
-&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube D2vj0WcvH5c &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-
+      <title>Keynote speech of Professor Joan Duda, Ph.D.</title>
+      <link>https://yingchuchentw.github.io/event/2023_11_05/</link>
+      <pubDate>Thu, 09 Nov 2023 10:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2023_11_05/</guid>
+      <description></description>
+    </item>
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
-  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
-  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
-  class=&#34;w-full h-full&#34;
-  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
-&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Try it out:&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-&lt;audio controls &gt;
-  &lt;source src=&#34;yingchuchentw.github.io/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
-&lt;/audio&gt;
-
-&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
-&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
-  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
-    You found me 🎉
-  &lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the &lt;code&gt;math: true&lt;/code&gt; option in your page&amp;rsquo;s front matter, or enable math for your entire site by toggling math in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;features&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;math&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
-$$&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
-    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; Python&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
+    <item>
+      <title>恭喜陳映竹榮獲112學年度呂聯宗呂王敏華夫婦獎助學基金以及優秀研究生獎學金！</title>
+      <link>https://yingchuchentw.github.io/post/2023_10_30_certification-award/</link>
+      <pubDate>Mon, 30 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_10_30_certification-award/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>yingchuchentw.github.io/experience/</link>
+      <link>https://yingchuchentw.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/experience/</guid>
+      <guid>https://yingchuchentw.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>yingchuchentw.github.io/teaching/js/</link>
+      <link>https://yingchuchentw.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/teaching/js/</guid>
+      <guid>https://yingchuchentw.github.io/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -646,7 +219,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;yingchuchentw.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://yingchuchentw.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -723,9 +296,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>yingchuchentw.github.io/teaching/python/</link>
+      <link>https://yingchuchentw.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/teaching/python/</guid>
+      <guid>https://yingchuchentw.github.io/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -772,7 +345,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;yingchuchentw.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://yingchuchentw.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -848,135 +421,385 @@ data.head()
     </item>
     
     <item>
-      <title>✅ Manage your projects</title>
-      <link>yingchuchentw.github.io/post/project-management/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/post/project-management/</guid>
-      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+      <title>Effects of acute blood flow restriction exercise on cognitive function:a review</title>
+      <link>https://yingchuchentw.github.io/event/2023_10_20/</link>
+      <pubDate>Thu, 19 Oct 2023 19:35:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2023_10_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTNU Department of Physcial education and Sport Science Seminar</title>
+      <link>https://yingchuchentw.github.io/post/2023_10_19_ntnu_seminar_presentation/</link>
+      <pubDate>Thu, 19 Oct 2023 19:35:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_10_19_ntnu_seminar_presentation/</guid>
+      <description>&lt;p&gt;In this seminar, Ying-Chu Chen shared the recent research work of effects of acute blood flow restriction exercise on cognitive function. He investigated the current research of blood flow restriction on cognitive function.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>單次同步運動對於認知執行功能之影響</title>
+      <link>https://yingchuchentw.github.io/post/2023_08_21_peerj_publication/</link>
+      <pubDate>Mon, 21 Aug 2023 09:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_08_21_peerj_publication/</guid>
+      <description>&lt;p&gt;認知執行功能在日常生活當中扮演相當重要的角色，認知執行功能是指一系列高階心理過程，包括注意力控制、工作記憶、認知靈活性、問題解決能力以及抑制控制等。這些功能協助我們處理複雜的資訊、適應環境變化以及有效地規劃和執行任務。在日常生活中，認知執行功能扮演著關鍵的角色，影響著我們的學習、工作、人際關係和整體生活品質。像是：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 工作和學習：在職場和學習環境中，我們需要處理大量資訊、優先安排任務、集中注意力，並持續保持高度的認知靈活性。良好的認知執行功能有助於提升工作效率和學習成果。工作記憶的強大意味著我們能夠暫時儲存並處理信息，這對於解決複雜的問題和執行多步驟任務至關重要。
 
-&lt;pre&gt;- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
+2. 人際關係：與他人互動需要我們不僅理解對方的情感和意圖，還需要適當地表達自己的觀點。認知執行功能可以幫助我們保持專注，避免分心，並在溝通中選擇合適的言語和行為反應。同時，它還有助於我們理解和掌握社交規則，從而建立良好的人際關係。
 
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
+3. 自我管理與情緒調控：良好的認知執行功能有助於我們抵制衝動，從而更好地管理情緒和行為。在面對壓力和挑戰時，我們可以利用這些功能來冷靜思考、制定解決方案，而不是受情緒支配。這種情緒調控有助於維護心理健康，減少情緒爆發和衝突。
+
+4. 日常生活技能：從買菜做飯到交通導航，我們的日常生活充滿了需要認知執行功能的活動。注意力控制有助於我們專注於重要任務，不受干擾。抑制能力使我們能夠避免不必要的行為或說話。認知靈活性則允許我們適應不同的環境和情境。
+
+5. 老年健康：隨著年齡的增長，認知執行功能的衰退可能會影響老年人的生活。保持這些功能的良好狀態有助於延緩認知衰退的速度，並提高老年人的生活質量。訓練和鍛煉這些功能可以幫助保持大腦的靈活性和活力。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/div&gt;
-&lt;h2 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h2&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;總而言之，認知執行功能是我們在面對複雜任務、挑戰和日常生活中所需的關鍵心理能力。它們影響著我們的思考方式、情緒管理、人際關係以及生活品質。這篇研究發現: 單次同步運動可以提升成年男性訊息處理速度，但是在抑制控制則與阻力運動無顯著差異，對於其它族群之影響，目前則尚待更多研究釐清！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acute effect of combined exercise with aerobic and resistance exercises on executive function</title>
+      <link>https://yingchuchentw.github.io/publication/journal-paper/01_first-author/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/journal-paper/01_first-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>陳映竹擔任112學年度第一學期身體活動心理學群負責人</title>
+      <link>https://yingchuchentw.github.io/post/2023_08_05_presentation/</link>
+      <pubDate>Sat, 05 Aug 2023 10:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_08_05_presentation/</guid>
+      <description>&lt;p&gt;感謝張研究講座教授給我機會勇敢承擔責任，一肩挑起身體活動心理學群負責人重責大任，除了必須新生座談會上臺報告外，日後也將為學群相關事務盡一份心力，希望自己可以有足夠能力承擔！持續努力為了學習更多更好的事物！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>陳映竹擔任惠瑜慈善協會課後輔導志工</title>
+      <link>https://yingchuchentw.github.io/post/2023_07_23_volunteer/</link>
+      <pubDate>Sat, 22 Jul 2023 19:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_07_23_volunteer/</guid>
+      <description>&lt;p&gt;雖然沒有餘裕的財富，但有著相關人文學科專業知識和無比的服務熱情，希冀能夠為偏鄉孩童以及弱勢族群們提供更多可能的學習機會和不求回饋的無私支持。對我來說，擔任一對一課後輔導志工，所得到的比付出得到更多。藉由擔任課後輔導志工，看著孩子們的學業成績不斷進步、學習自信心也倍增，透過短暫的陪伴和無私的關心讓弱勢學生感受到了被重視和被認同的溫暖，我想這些對他們的生涯成長和未來人格發展都是至關重要的。雖然沒有餘裕的財富，但有著相關人文學科專業知識和無比的服務熱情，希冀能夠為偏鄉孩童以及弱勢族群們提供更多可能的學習機會和不求回饋的無私支持。對我來說，擔任一對一課後輔導志工，所得到的比付出得到更多。藉由擔任課後輔導志工，看著孩子們的學業成績不斷進步、學習自信心也倍增，透過短暫的陪伴和無私的關心讓弱勢學生感受到了被重視和被認同的溫暖，我想這些對他們的生涯成長和未來人格發展都是至關重要的。 也感謝國立政治大學中國文學系紮實的中國文學系統性訓練，讓我能夠在畢業後將近二十餘年的時間，依舊能夠從容的幫高中三年級的學生複習高中國文！國立政治大學中國文學系以完善的師資陣容，無論是在傳統小學、現代詩詞小學，或者是義理之學，皆有著完善且獨特的知識體系與研究內容，也為其學生打造了健全的未來發展體系！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attend International Academic Conferences in ACSM 70th Annual Meeting</title>
+      <link>https://yingchuchentw.github.io/post/2023_06_02_acsm70_annualmeeting/</link>
+      <pubDate>Fri, 02 Jun 2023 14:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_06_02_acsm70_annualmeeting/</guid>
+      <description>&lt;p&gt;恭喜陳映竹榮獲國科會以及國立臺灣師範大學研究發展處出席國際會議補助，前往美國丹佛，出席美國運動醫學會第七十屆年會，並進行海報發表，內容為「Acute Effect of Combined Exercise on Inhibit Control: A Preliminary Study 」，並且於會議過程當中，展現絕佳自信與英語溝通能力，讓健身運動與認知功能研究能夠於世界展露頭角！本次陳映竹海報發表總共兩篇：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Chen, Y.-C., Leung, T.-S., Chang, Y.-C., Yung, Y.-W., Chang, Y.-K., Chen, C.-Y. (2023, May 30–June 2). Acute Effect Of Combined Exercise On Inhibit Control: A Preliminary Study [Poster Presentation]. The 70th Annual Meeting of American College of Sport Medicine (ACSM), Denver City, Colorado, USA, 2023. &lt;a href=&#34;https://www.acsm.org/annual-meeting/annual-home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acsm.org/annual-meeting/annual-home&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+&lt;li&gt;
+&lt;p&gt;Chen, M.-T., Liao, Y.-H., Chen, Y.-C., Leung, T.-S., Chang, Y.-C., Yung, Y.-W., Chen, C.-Y. (2023, May 30–June 2). Effects of Acute Concurrent Exercise on Cognitive Performance and Related Regulation Hormones [Poster Presentation]. The 70th Annual Meeting of American College of Sport Medicine (ACSM), Denver City, Colorado, USA, 2023. &lt;a href=&#34;https://www.acsm.org/annual-meeting/annual-home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acsm.org/annual-meeting/annual-home&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>yingchuchentw.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;yingchuchentw.github.io/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>國立臺灣師範大學研究發展處創新育成中心創業競賽英文競賽</title>
+      <link>https://yingchuchentw.github.io/post/2023_05_28_pitch/</link>
+      <pubDate>Sun, 28 May 2023 19:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_05_28_pitch/</guid>
+      <description>&lt;p&gt;陳映竹榮獲國立臺灣師範大學研究發展處創新育成中心創業競賽英文競賽計畫學習機會，透過兩位全外語外師講解新創產業在進行簡報英文時，究竟應該注意哪些為人所不知的要點，並且透過每次英文簡報的機會，不但練習英文簡報，更是學習新創產業pitch的注意要點！&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>yingchuchentw.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>國立臺灣師範大學圖書館111學年度第二學期圖書館自主學習讀書會</title>
+      <link>https://yingchuchentw.github.io/post/2023_05_19_readingclub/</link>
+      <pubDate>Thu, 18 May 2023 19:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_05_19_readingclub/</guid>
+      <description>&lt;p&gt;恭喜陳映竹榮獲國立臺灣師範大學圖書館111學年度第二學期圖書館自主學習讀書會補助並擔任召集人，舉辦「西遊孝道：從孝經翻譯探究西方漢學的緣起」自主學習讀書會」，並規劃與讀書會章節內容與擔任主講者與引導讀書會進行，展現絕佳行動規劃能力與組織規劃能力，並以多種社群媒體方式，透過多元讀書會的形式，讓讀書會跳脫傳統窠臼。&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>yingchuchentw.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>國立臺灣師範大學高行健研究中心高行健研究補助</title>
+      <link>https://yingchuchentw.github.io/post/2023_05_01/</link>
+      <pubDate>Mon, 01 May 2023 19:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_05_01/</guid>
+      <description>&lt;p&gt;恭喜陳映竹榮獲國立臺灣師範大學高行健研究中心高行健研究補助之碩博士專題研究計畫補助&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1st time seminar presentation in National Taiwan Normal University Department of Physical Education and Sport Sciences</title>
+      <link>https://yingchuchentw.github.io/post/2023_03_30/</link>
+      <pubDate>Fri, 31 Mar 2023 19:00:00 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_03_30/</guid>
+      <description>&lt;p&gt;1st time seminar presentation in National Taiwan Normal University Department of Physical Education and Sport Sciences&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>To Attend 10th International Seminar of Sport and Exercise Psychology (ISSEP)</title>
+      <link>https://yingchuchentw.github.io/post/2023_02_08/</link>
+      <pubDate>Wed, 08 Feb 2023 14:30:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2023_02_08/</guid>
+      <description>&lt;p&gt;出席10th International Seminar of Sport and Exercise Psychology (ISSEP)，並發表論文&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical Activity, Exercise, and Health Promotion:A Practitioner&#39;s Perspective.</title>
+      <link>https://yingchuchentw.github.io/event/2022_10_24/</link>
+      <pubDate>Mon, 24 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2022_10_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>臺灣教育大學系統第八屆優良博碩士學位論文獎【藝術及其他類碩士領域】 佳作</title>
+      <link>https://yingchuchentw.github.io/post/2022_09_27/</link>
+      <pubDate>Tue, 27 Sep 2022 14:30:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2022_09_27/</guid>
+      <description>&lt;p&gt;臺灣教育大學系統第八屆優良博碩士學位論文獎【藝術及其他類碩士領域】 佳作！The 8th Anniversary of Taiwan University of Education Union Distinguished  Doctoral Dissertation and Master Thesis Award in Fine Arts and Other Discipline Field:  Honorable Mention&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to exercise in the COVID-19 pandemic?</title>
+      <link>https://yingchuchentw.github.io/post/2022_06_01/</link>
+      <pubDate>Wed, 01 Jun 2022 06:30:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2022_06_01/</guid>
+      <description>&lt;p&gt;疫情期間，許多人由於政府政策以及居家隔離等因素，進而必須暫停或者中斷健身運動，或者是想藉由身體活動以及健身運動來增加自身的免疫力。那麼，該如何透過簡單居家運動來達到這樣的效果呢？國立臺北護理健康大學運動保健學系廖翊宏教授兼任系主任認為規律進行有氧耐力運動訓練者，其呼吸肌功能將會相較於沒有進行規律訓練者要來得較好！並且人們可以透過簡單的居家訓練動作，無論是肌力訓練或者是有氧耐力訓練，來達到健身運動訓練效果。此外，也可以透過虛擬實境運動軟體或者是線上課程教學，來達到增加社會互動以及促進更好的訓練效果。讓我們參考這篇報導！連結在此喔：https://youtu.be/G9ScfKCTNak &amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical Activity, Exercise, and Health Promotion</title>
+      <link>https://yingchuchentw.github.io/event/2022_05_29/</link>
+      <pubDate>Fri, 20 May 2022 10:05:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2022_05_29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back Exercise:Stabilize, Mobilize, and Reduce Pain</title>
+      <link>https://yingchuchentw.github.io/publication/book-section/back-exercise/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/book-section/back-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactical Athletes &amp; Exercise Science</title>
+      <link>https://yingchuchentw.github.io/post/2022_03_22/</link>
+      <pubDate>Tue, 22 Mar 2022 14:30:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2022_03_22/</guid>
+      <description>&lt;p&gt;How can exercise science professionals develop better tactical strength and conditioning program for the tactical athletes? It may not be easy to achieve in short period of time instead of going through the mill. With the promotion of government and exercise science professionals, it will definitely lead to great success!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Those optimized experiment procedure &amp; conduction all begin with details.</title>
+      <link>https://yingchuchentw.github.io/post/2022_03_20/</link>
+      <pubDate>Sun, 20 Mar 2022 14:30:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2022_03_20/</guid>
+      <description>&lt;p&gt;Those optimized experiment procedure &amp;amp; conduction all begin with details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSCA&#39;s Essential of Sport Science</title>
+      <link>https://yingchuchentw.github.io/publication/book-section/nsca_sport_science/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/book-section/nsca_sport_science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science and Practice of Strength Training</title>
+      <link>https://yingchuchentw.github.io/publication/book-section/science_princtiple/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/book-section/science_princtiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The most outstanding self-learning community</title>
+      <link>https://yingchuchentw.github.io/post/2022_01_11/</link>
+      <pubDate>Tue, 11 Jan 2022 14:30:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2022_01_11/</guid>
+      <description>&lt;p&gt;Today, we accept the most outstanding self-learning community award in university of Taipei with profound gratitude. In addition, we can&amp;rsquo;t describe how honored we are to receive this award!&lt;/p&gt;
+&lt;p&gt;Most import of all, we will accept the prize as a tribute to &lt;strong&gt;Dr. Yu-Kai Chang&lt;/strong&gt; (Research Chair Professor, Department of Physical Education and Sport Sciences, National Taiwan Normal University), &lt;strong&gt;Dr. Ching-Feng Cheng&lt;/strong&gt; (Professor, Department of Athletic Performance, National Taiwan Normal University), &lt;strong&gt;Dr. Yi-Hung Liao&lt;/strong&gt;  (Professor, Department of Exercise and Health Science, National Taipei University of Nursing and Health Sciences), and &lt;strong&gt;Dr. Hsin-Fu Lin&lt;/strong&gt; (Professor, Sport Facility Management and Health Promotion, National Taiwan University). Thank you all for novel and marvelous speech!&lt;/p&gt;
+&lt;p&gt;While this award is being given to me, as a matter of fact, it should go to our team of colleagues and PI, &lt;strong&gt;Dr. Chung-Yu Chen&lt;/strong&gt; (Professor &amp;amp; Director of R&amp;amp;D office, Department of Exercise and Health Sciences, University of Taipei), without whom none of this would have been possible! Let&amp;rsquo;s keep moving forward with strong and active faith in exercise science, sport science, and health science!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The role</title>
+      <link>https://yingchuchentw.github.io/post/2021_12_29/</link>
+      <pubDate>Wed, 29 Dec 2021 18:11:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2021_12_29/</guid>
+      <description>&lt;p&gt;As a practitioner in exercise science, &lt;strong&gt;mindset&lt;/strong&gt; is very important! We are not only the &lt;strong&gt;experiment conductor&lt;/strong&gt; but also the &lt;strong&gt;participant&lt;/strong&gt; sometimes instead. Both roles all lead to the the central role of exercise science. How we balance these two role might be the issue for featured research.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As professor Liao always reminds us that: “Something very small or minor can be indicative of something much more important.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In other words, an experiment is not just an experiment, it’s about how well  you organize and prepare for the oncoming difficulty and possible defeat. Life isn’t all sunshine and rainbows, how much we can take the challenge and keep moving forward would be the key!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yingchuchentw.github.io/event/2021_12_02/</link>
+      <pubDate>Thu, 02 Dec 2021 10:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2021_12_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiment Note</title>
+      <link>https://yingchuchentw.github.io/post/2021_12_01/</link>
+      <pubDate>Wed, 01 Dec 2021 18:11:20 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/2021_12_01/</guid>
+      <description>&lt;p&gt;Professor Liao always reminds us that: “Something very small or minor can be indicative of something much more important.” In other words, an experiment is not just an experiment, it’s about how well  you organize and prepare for the oncoming difficulty and possible defeat. Life isn’t all sunshine and rainbows, how much we can take the challenge and keep moving forward would be the key!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exercise and Health Sciences Journal Clubs in December</title>
+      <link>https://yingchuchentw.github.io/project/dec-journal_clubs/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/dec-journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exercise and Health Sciences Journal Clubs in December</title>
+      <link>https://yingchuchentw.github.io/project/dec_journal-clubs/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/dec_journal-clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic Plan in Doctoral Degree</title>
+      <link>https://yingchuchentw.github.io/post/academic_plan/</link>
+      <pubDate>Fri, 26 Nov 2021 12:05:52 +0800</pubDate>
+      <guid>https://yingchuchentw.github.io/post/academic_plan/</guid>
+      <description>&lt;p&gt;To be updated.&lt;/p&gt;
+&lt;p&gt;My future academic plan in doctoral degree will be described in this post. I will explain my future career as the following aspects:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Academic Performance&lt;/strong&gt;   &lt;br&gt;
+2. &lt;strong&gt;Fitness Industry Performance&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The aim of Doctoral Training might be research, but NOT only for research itself.&lt;/p&gt;
+&lt;p&gt;In my opinion, the main aim of doctoral training is to help PhD researchers to think and act more creatively and independently.&lt;/p&gt;
+&lt;p&gt;This will prepare them for a career in frontier research and education or for higher level roles in professional sectors where in-depth and rigorous analysis is required.&lt;/p&gt;
+&lt;p&gt;In order to achieve this aim, the doctoral training should focus on personal development in 4 complementary areas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Professional expertise
+a.Knowledge of the exercise science and health science discipline
+b.Analytic and synthesizing skills
+c.creativity thinking
+d.out-of-the-box thinking (critical thinking)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Research management skills
+a.Project management and financing sponsorship consideration
+b.respecting professional and ethical standards&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Personal effectiveness
+a.Self-management (Self-disciplined)
+b.time management
+c.motivation
+d.problem solving
+e.career planning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Impact and influence
+a.Collaboration communication
+b.networking
+c.leadership&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Research-based training &amp;amp; structured training activities by the Doctoral School&lt;/p&gt;
+&lt;p&gt;On the other side, Doctoral training takes place first and foremost in the research group or laboratory via informal and formal meetings with the supervisor and fellow researchers. This research-based training is complemented by more structured training activities organized by the Doctoral School.&lt;/p&gt;
+&lt;p&gt;The structured part of the doctoral training consists of 3 components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Research skills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thematic training in a doctoral school programs comprising advanced courses, invited lectures, journal clubs and doctoral seminars focused on a specific biomedical topic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Training and development of transferable skills that are relevant for the successful completion of the doctorate and can be valorised later in different professional sectors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical Activity, Exercise, and Health Promotion:A Practitioner&#39;s Perspective.</title>
+      <link>https://yingchuchentw.github.io/event/2021_11_26/</link>
+      <pubDate>Mon, 08 Nov 2021 09:30:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2021_11_26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exercise and Health Sciences Journal Clubs in November</title>
+      <link>https://yingchuchentw.github.io/project/nov_journal_clubs/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/nov_journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exercise and Health Sciences Journal Clubs in October</title>
+      <link>https://yingchuchentw.github.io/project/oct_journal_clubs/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/oct_journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acute Effects of Concurrent Exercise on Cognitive Function</title>
+      <link>https://yingchuchentw.github.io/publication/conference-paper/</link>
+      <pubDate>Thu, 30 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use Journal Citation Report to find impact factor and ranking?</title>
+      <link>https://yingchuchentw.github.io/event/2021_09_15/</link>
+      <pubDate>Wed, 15 Sep 2021 10:30:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2021_09_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exercise and Health Sciences Journal Clubs in September</title>
+      <link>https://yingchuchentw.github.io/project/sept_journal_clubs/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/sept_journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exercise Science Project (Sponsored by University of Taipei, Higher Education SPROUT Project)</title>
+      <link>https://yingchuchentw.github.io/project/sponsored_projects/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/sponsored_projects/</guid>
+      <description>&lt;p&gt;Cross the line: Fusion of Sport and Performance and Exercise Science&lt;/p&gt;
+&lt;p&gt;As the principal investigator of this project, Ying-Chu Chen invited the four Professors for innovative speech!&lt;/p&gt;
 </description>
     </item>
     

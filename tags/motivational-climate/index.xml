@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivational Climate | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://yingchuchentw.github.io/tags/motivational-climate/</link>
+      <atom:link href="https://yingchuchentw.github.io/tags/motivational-climate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motivational Climate</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Motivational Climate</title>
+      <link>https://yingchuchentw.github.io/tags/motivational-climate/</link>
+    </image>
+    
+    <item>
+      <title>Keynote speech of Professor John Cairney, Ph.D.</title>
+      <link>https://yingchuchentw.github.io/event/2024_10_11/</link>
+      <pubDate>Fri, 04 Oct 2024 09:30:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2024_10_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote speech of Professor Joan Duda, Ph.D.</title>
+      <link>https://yingchuchentw.github.io/event/2023_11_05/</link>
+      <pubDate>Thu, 09 Nov 2023 10:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2023_11_05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

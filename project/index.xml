@@ -2,38 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ying-Chu Chen&#39;s CV website</title>
-    <link>yingchuchentw.github.io/project/</link>
-      <atom:link href="yingchuchentw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yingchuchentw.github.io/project/</link>
+      <atom:link href="https://yingchuchentw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>yingchuchentw.github.io/project/</link>
+      <link>https://yingchuchentw.github.io/project/</link>
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>yingchuchentw.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>Exercise and Health Sciences Journal Clubs in December</title>
+      <link>https://yingchuchentw.github.io/project/dec-journal_clubs/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/dec-journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>yingchuchentw.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>Exercise and Health Sciences Journal Clubs in December</title>
+      <link>https://yingchuchentw.github.io/project/dec_journal-clubs/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/dec_journal-clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>yingchuchentw.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>yingchuchentw.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Exercise and Health Sciences Journal Clubs in November</title>
+      <link>https://yingchuchentw.github.io/project/nov_journal_clubs/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/nov_journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exercise and Health Sciences Journal Clubs in October</title>
+      <link>https://yingchuchentw.github.io/project/oct_journal_clubs/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/oct_journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exercise and Health Sciences Journal Clubs in September</title>
+      <link>https://yingchuchentw.github.io/project/sept_journal_clubs/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/sept_journal_clubs/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to join our exercise and health sciences journal clubs! Please check out the link above for more information!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exercise Science Project (Sponsored by University of Taipei, Higher Education SPROUT Project)</title>
+      <link>https://yingchuchentw.github.io/project/sponsored_projects/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/project/sponsored_projects/</guid>
+      <description>&lt;p&gt;Cross the line: Fusion of Sport and Performance and Exercise Science&lt;/p&gt;
+&lt;p&gt;As the principal investigator of this project, Ying-Chu Chen invited the four Professors for innovative speech!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

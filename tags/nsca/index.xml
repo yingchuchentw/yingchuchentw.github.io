@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NSCA | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://yingchuchentw.github.io/tags/nsca/</link>
+      <atom:link href="https://yingchuchentw.github.io/tags/nsca/index.xml" rel="self" type="application/rss+xml" />
+    <description>NSCA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>NSCA</title>
+      <link>https://yingchuchentw.github.io/tags/nsca/</link>
+    </image>
+    
+    <item>
+      <title>NSCA&#39;s Essential of Sport Science</title>
+      <link>https://yingchuchentw.github.io/publication/book-section/nsca_sport_science/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/book-section/nsca_sport_science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

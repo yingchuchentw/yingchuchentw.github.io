@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concurrent Exercise | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://yingchuchentw.github.io/tags/concurrent-exercise/</link>
+      <atom:link href="https://yingchuchentw.github.io/tags/concurrent-exercise/index.xml" rel="self" type="application/rss+xml" />
+    <description>Concurrent Exercise</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Sep 2021 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yingchuchentw.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Concurrent Exercise</title>
+      <link>https://yingchuchentw.github.io/tags/concurrent-exercise/</link>
+    </image>
+    
+    <item>
+      <title>Acute Effects of Concurrent Exercise on Cognitive Function</title>
+      <link>https://yingchuchentw.github.io/publication/conference-paper/</link>
+      <pubDate>Thu, 30 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
