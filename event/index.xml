@@ -5,12 +5,20 @@
     <link>https://yingchuchentw.github.io/event/</link>
       <atom:link href="https://yingchuchentw.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2024 20:05:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yingchuchentw.github.io/media/icon_hu15511076651403545720.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://yingchuchentw.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>World Master Games Conference 2025: Advancing Sustainability, Data, and Inclusivity in Sports</title>
+      <link>https://yingchuchentw.github.io/event/2025_05_13/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2025_05_13/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effects of multi-component exercise intervention on quality of life in middle-aged adults:A randomized controlled trial</title>

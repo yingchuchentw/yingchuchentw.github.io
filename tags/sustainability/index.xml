@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://yingchuchentw.github.io/tags/sustainability/</link>
+      <atom:link href="https://yingchuchentw.github.io/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sustainability</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yingchuchentw.github.io/media/icon_hu15511076651403545720.png</url>
+      <title>Sustainability</title>
+      <link>https://yingchuchentw.github.io/tags/sustainability/</link>
+    </image>
+    
+    <item>
+      <title>World Master Games Conference 2025: Advancing Sustainability, Data, and Inclusivity in Sports</title>
+      <link>https://yingchuchentw.github.io/event/2025_05_13/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/event/2025_05_13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
