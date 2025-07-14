@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aging | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://yingchuchentw.github.io/tags/aging/</link>
+      <atom:link href="https://yingchuchentw.github.io/tags/aging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aging</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yingchuchentw.github.io/media/icon_hu15511076651403545720.png</url>
+      <title>Aging</title>
+      <link>https://yingchuchentw.github.io/tags/aging/</link>
+    </image>
+    
+    <item>
+      <title>Cardiorespiratory fitness, independent of APOE genotype, is associated with better neurocognitive function in older adults:An ERP study</title>
+      <link>https://yingchuchentw.github.io/publication/journal-paper/05_co_author/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yingchuchentw.github.io/publication/journal-paper/05_co_author/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
